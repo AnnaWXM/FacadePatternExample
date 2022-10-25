@@ -1,6 +1,9 @@
 package sample.sim.app;
 
 public class Tuner {
+    Amplifier amplifier;
+    Double frequency;
+    String description;
     public void on(){
         System.out.println("Turning ON Tuner");
     }
