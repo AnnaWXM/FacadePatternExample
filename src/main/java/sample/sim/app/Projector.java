@@ -11,6 +11,6 @@ public class Projector {
         System.out.println("Set Projector TV mode");
     }
     public void WideScreenMode(){
-        System.out.println("TSet Projector WideScreenMode ");
+        System.out.println("Test Projector WideScreenMode ");
     }
 }

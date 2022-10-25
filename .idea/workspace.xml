@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9cbc28cf-35cd-455b-a268-a2e5eed301eb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/PopcornPopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sim/app/PopcornPopper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/TestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sim/app/TestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/Projector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sim/app/Projector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sim/app/Screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/StreamingPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sim/app/StreamingPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/TheaterLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sim/app/TheaterLights.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/Tuner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sim/app/Tuner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
