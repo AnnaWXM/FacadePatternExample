@@ -17,11 +17,11 @@ public class StreamingPlayer {
     public void setSurroundAudio(){
         System.out.println(description + " set surround audio");
     }
-    public void play(){
+    public void play(String movie){
         System.out.println(description+" playing /" + movie +"/");
     }
-    public void stop(String movie){
-        System.out.println(description + " stopped \"" + movie + "\"");
+    public void stop(){
+        System.out.println("Movie Stopped!!!!");
     }
     public void setTwoChannelAudio(){
         System.out.println(description + " set two channel audio");

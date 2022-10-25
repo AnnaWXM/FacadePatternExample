@@ -4,7 +4,7 @@ public class Projector {
     StreamingPlayer player;
     String description;
 
-    public Projector(String description){
+    public Projector(String description, StreamingPlayer player){
         this.description = description;
         this.player = player;
 
@@ -18,7 +18,7 @@ public class Projector {
     public void tvMode(){
         System.out.println("Set "+description +" TV mode");
     }
-    public void WideScreenMode(){
+    public void wideScreenMode(){
         System.out.println("Test Projector WideScreenMode ");
     }
     public String toString() {

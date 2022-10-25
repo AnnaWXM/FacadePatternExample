@@ -10,10 +10,10 @@ public class TheaterLights {
         System.out.println("Turning ON "+description);
     }
     public void off(){
-        System.out.println("Turning OFF"+description);
+        System.out.println("Turning OFF "+description);
     }
     public void dim(int level){
-        System.out.println("Dimming "+description +"to level "+level);
+        System.out.println("Dimming "+description +" to level "+level);
     }
 
 }
