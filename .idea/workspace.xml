@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cbc28cf-35cd-455b-a268-a2e5eed301eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sim/app/RealFacade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/Projector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sim/app/Projector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sim/app/Screen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/StreamingPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sim/app/StreamingPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/TheaterLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sim/app/TheaterLights.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/Tuner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sim/app/Tuner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sim/app/TestDrive.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +43,8 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.sim.app.Main" />
+    <configuration name="RealFacade" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.sim.app.RealFacade" />
       <module name="Teachable" />
       <method v="2">
         <option name="Make" enabled="true" />
