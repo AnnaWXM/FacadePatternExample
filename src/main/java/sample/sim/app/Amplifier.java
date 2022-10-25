@@ -1,22 +1,45 @@
 package sample.sim.app;
 
 public class Amplifier {
-    public void on(){
-        System.out.println("Turning ON StreamingPlayer");
+    String description;
+    Tuner tuner;
+    StreamingPlayer player;
+
+    public Amplifier(String description) {
+        this.description = description;
     }
-    public void off(){
-        System.out.println("Turning OFF StreamingPlayer");
+
+    public void on() {
+        System.out.println(description + " on");
     }
-    public void setSurroundAudio(){
-        System.out.println("Set StreamingPlayer setSurroundAudio");
+
+    public void off() {
+        System.out.println(description + " off");
     }
-    public void stop(){
-        System.out.println("Turning OFF StreamingPlayer");
+
+    public void setStereoSound() {
+        System.out.println(description + " stereo mode on");
     }
-    public void setTwoChannelAudio(){
-        System.out.println("Set StreamingPlayer setTwoChannelAudio");
+
+    public void setSurroundSound() {
+        System.out.println(description + " surround sound on (5 speakers, 1 subwoofer)");
     }
-    public void dim(){
-        System.out.println("Dimming Theater lights");
+
+    public void setVolume(int level) {
+        System.out.println(description + " setting volume to " + level);
+    }
+
+    public void setTuner(Tuner tuner) {
+        System.out.println(description + " setting tuner to " + tuner);
+        this.tuner = tuner;
+    }
+
+    public void setStreamingPlayer(StreamingPlayer player) {
+        System.out.println(description + " setting Streaming player to " + player);
+        this.player = player;
+    }
+
+    public String toString() {
+        return description;
     }
 }
