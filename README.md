@@ -14,11 +14,13 @@ Project Date: October 2022
 Principle of least knowledge: talk only to your immediate friends.
 
 
-##Technology
+## Technology
 
 Java
 
 Maven
+
+PowerPoint
 
 UML: by diagrams.net from Google Drive
 
